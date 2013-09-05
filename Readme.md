@@ -29,3 +29,5 @@ Since you in the REPL, you can experiment too. Try:
     > Timeline.first.years
 
 Have a look at the [Mongoid](http://mongoid.org) website for more inspiration.
+
+YO!
